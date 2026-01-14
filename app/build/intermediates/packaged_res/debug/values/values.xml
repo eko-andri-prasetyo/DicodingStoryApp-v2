@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_dark_background">#111111</color>
+    <color name="md_theme_dark_onBackground">#FFFFFF</color>
+    <color name="md_theme_dark_onPrimary">#FFFFFF</color>
+    <color name="md_theme_dark_primary">#2D3E50</color>
+    <color name="md_theme_light_background">#FFFFFF</color>
+    <color name="md_theme_light_onBackground">#111111</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primary">#2D3E50</color>
+    <string name="add_story">Tambah Story</string>
+    <string name="app_name">Dicoding Story</string>
+    <string name="camera">Camera</string>
+    <string name="email">Email</string>
+    <string name="empty_story">Belum ada story.</string>
+    <string name="error_invalid_email">Format email tidak valid</string>
+    <string name="error_password_min">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="gallery">Gallery</string>
+    <string name="hint_email">contoh@domain.com</string>
+    <string name="hint_name">Nama lengkap</string>
+    <string name="hint_password">Minimal 8 karakter</string>
+    <string name="loading">Loading...</string>
+    <string name="login">Masuk</string>
+    <string name="logout">Logout</string>
+    <string name="logout_success">Berhasil logout</string>
+    <string name="name">Nama</string>
+    <string name="password">Password</string>
+    <string name="pick_image_first">Pilih foto terlebih dahulu.</string>
+    <string name="register">Daftar</string>
+    <string name="title_activity_maps">Story Maps</string>
+    <string name="upload">Upload</string>
+    <string name="welcome_desc">Mau berbagi ilmu tentang Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding Story aja!</string>
+    <string name="welcome_title">Selamat datang di Dicoding Story!</string>
+    <style name="Theme.DicodingStoryApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="android:colorBackground">@color/md_theme_light_background</item>
+        <item name="colorOnBackground">@color/md_theme_light_onBackground</item>
+        <item name="colorSurface">@color/md_theme_light_background</item>
+        <item name="colorOnSurface">@color/md_theme_light_onBackground</item>
+        <item name="android:statusBarColor">@color/md_theme_light_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

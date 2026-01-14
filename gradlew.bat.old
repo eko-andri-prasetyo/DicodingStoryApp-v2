@@ -1,0 +1,3 @@
+@echo off
+echo Gradle wrapper jar is not included in this zip. Please run Gradle via Android Studio.
+exit /b 1

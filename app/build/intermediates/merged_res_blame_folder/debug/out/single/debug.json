@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/layout_activity_login.xml.flat",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/layout_activity_maps.xml.flat",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/layout_item_story.xml.flat",
+        "source": "com.dicoding.storyapp-main-52:/layout/item_story.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/menu_menu_main.xml.flat",
+        "source": "com.dicoding.storyapp-main-52:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/layout_activity_register.xml.flat",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/raw_map_style.json.flat",
+        "source": "com.dicoding.storyapp-main-52:/raw/map_style.json"
+    },
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/drawable_ic_baseline_map_24.xml.flat",
+        "source": "com.dicoding.storyapp-main-52:/drawable/ic_baseline_map_24.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/layout_activity_detail.xml.flat",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/layout_activity_welcome.xml.flat",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/layout_activity_add_story.xml.flat",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_add_story.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/xml_file_paths.xml.flat",
+        "source": "com.dicoding.storyapp-main-52:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-merged_res-50:/layout_item_loading.xml.flat",
+        "source": "com.dicoding.storyapp-main-52:/layout/item_loading.xml"
+    }
+]

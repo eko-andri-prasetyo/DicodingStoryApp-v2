@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Dicoding Story</string>
+
+    <string name="welcome_title">Selamat datang di Dicoding Story!</string>
+    <string name="welcome_desc">Mau berbagi ilmu tentang Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding Story aja!</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+
+    <string name="email">Email</string>
+    <string name="name">Nama</string>
+    <string name="password">Password</string>
+
+    <string name="hint_email">contoh@domain.com</string>
+    <string name="hint_name">Nama lengkap</string>
+    <string name="hint_password">Minimal 8 karakter</string>
+
+    <string name="logout">Logout</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+
+    <string name="loading">Loading...</string>
+    <string name="empty_story">Belum ada story.</string>
+    <string name="pick_image_first">Pilih foto terlebih dahulu.</string>
+
+    <string name="error_invalid_email">Format email tidak valid</string>
+    <string name="error_password_min">Password tidak boleh kurang dari 8 karakter</string>
+
+    <string name="logout_success">Berhasil logout</string>
+    <string name="title_activity_maps">Story Maps</string>
+</resources>

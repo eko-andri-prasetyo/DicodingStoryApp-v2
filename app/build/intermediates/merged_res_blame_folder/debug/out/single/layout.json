@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.dicoding.storyapp-mergeDebugResources-49:/layout/activity_welcome.xml",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-mergeDebugResources-49:/layout/item_loading.xml",
+        "source": "com.dicoding.storyapp-main-52:/layout/item_loading.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-mergeDebugResources-49:/layout/activity_detail.xml",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-mergeDebugResources-49:/layout/activity_register.xml",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-mergeDebugResources-49:/layout/activity_login.xml",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-mergeDebugResources-49:/layout/activity_maps.xml",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-mergeDebugResources-49:/layout/activity_add_story.xml",
+        "source": "com.dicoding.storyapp-main-52:/layout/activity_add_story.xml"
+    },
+    {
+        "merged": "com.dicoding.storyapp-mergeDebugResources-49:/layout/item_story.xml",
+        "source": "com.dicoding.storyapp-main-52:/layout/item_story.xml"
+    }
+]

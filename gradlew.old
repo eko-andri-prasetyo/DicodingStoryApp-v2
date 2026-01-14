@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+# Simplified Gradle wrapper script placeholder.
+# If this file is used directly, please generate Gradle Wrapper from Android Studio:
+#   File > New > New Project... (or) Gradle > Generate/Update Gradle Wrapper
+echo "Gradle wrapper jar is not included in this zip. Please run Gradle via Android Studio."
+exit 1
