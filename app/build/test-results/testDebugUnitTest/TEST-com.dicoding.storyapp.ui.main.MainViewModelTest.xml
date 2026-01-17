@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dicoding.storyapp.ui.main.MainViewModelTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-15T11:22:04.634Z" hostname="EKOANDRI" time="0.69">
+  <properties/>
+  <testcase name="when Get Story Empty Should Return No Data" classname="com.dicoding.storyapp.ui.main.MainViewModelTest" time="0.669"/>
+  <testcase name="when Get Story Should Not Null and Return Data" classname="com.dicoding.storyapp.ui.main.MainViewModelTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

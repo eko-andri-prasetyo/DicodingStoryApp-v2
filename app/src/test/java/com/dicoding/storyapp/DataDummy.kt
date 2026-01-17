@@ -8,13 +8,12 @@ object DataDummy {
         for (i in 0..100) {
             val story = ListStoryItem(
                 i.toString(),
-                "photoUrl $i",
-                "createdAt $i",
                 "name $i",
                 "description $i",
-                null,
-                i.toDouble(),
-                i.toDouble()
+                "photoUrl $i",
+                "createdAt $i",
+                0.0,
+                0.0
             )
             items.add(story)
         }
